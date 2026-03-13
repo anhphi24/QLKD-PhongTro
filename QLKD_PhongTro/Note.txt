@@ -1,0 +1,6 @@
+Các chỗ cần thay đổi server database, tất cả đều ở ngay đoạn đầu code:
+
+- Form đăng nhập: 1 chỗ
+- Form App: 2 chỗ
+- From chi tiết hóa đơn: 1 chỗ
+- Form cài đặt: 1 chỗ

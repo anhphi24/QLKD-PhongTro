@@ -1,0 +1,71 @@
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\bin\Debug\QLKDPhongTro.exe.config
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\bin\Debug\QLKDPhongTro.exe
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\bin\Debug\QLKDPhongTro.pdb
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.Properties.Resources.resources
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.exe
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.pdb
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmDoiMK.resources
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmDangNhap.resources
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmFormApp.resources
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmHoaDonChiTiet.resources
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\bin\Debug\QLKDPhongTro.exe.config
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\bin\Debug\QLKDPhongTro.exe
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\bin\Debug\QLKDPhongTro.pdb
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmDoiMK.resources
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmDangNhap.resources
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmFormApp.resources
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmHoaDonChiTiet.resources
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.Properties.Resources.resources
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.exe
+C:\Users\nguye\Downloads\QLKDPhongTro (2)\QLKDPhongTro\QLKDPhongTro (2)\QLKDPhongTro\obj\Debug\QLKDPhongTro.pdb
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\bin\Debug\QLKDPhongTro.exe.config
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\bin\Debug\QLKDPhongTro.exe
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\bin\Debug\QLKDPhongTro.pdb
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.AssemblyReference.cache
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmDoiMK.resources
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmDangNhap.resources
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmFormApp.resources
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmHoaDonChiTiet.resources
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.Properties.Resources.resources
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.GenerateResource.cache
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.exe
+C:\Users\LE PHI ANH\Documents\Zalo Received Files\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.pdb
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.exe
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.pdb
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\bin\Debug\QLKDPhongTro.exe.config
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\bin\Debug\QLKDPhongTro.exe
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\bin\Debug\QLKDPhongTro.pdb
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmDoiMK.resources
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmDangNhap.resources
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmFormApp.resources
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmHoaDonChiTiet.resources
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.Properties.Resources.resources
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\Group 7_ Source Code\Group 7_ Source Code\QLKDPhongTro\QLKDPhongTro\obj\Debug\QLKDPhon.8A44397F.Up2Date
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\bin\Debug\QLKDPhongTro.exe.config
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\bin\Debug\QLKDPhongTro.exe
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\bin\Debug\QLKDPhongTro.pdb
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmDoiMK.resources
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmDangNhap.resources
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmFormApp.resources
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhongTro.frmHoaDonChiTiet.resources
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhongTro.Properties.Resources.resources
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhon.8A44397F.Up2Date
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhongTro.exe
+C:\Users\nguye\Downloads\ITE1264E B05E_ Group 7\ITE1264E B05E_ Group 7\Group 7_ Source Code\QLKDPhongTro\obj\Debug\QLKDPhongTro.pdb
